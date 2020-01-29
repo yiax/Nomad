@@ -1,20 +1,20 @@
-#Yia's Individual Project
+# Yia's Individual Project
 This repository will ...
 
-###Problem Statement
+### Problem Statement
 ...
 
-###Project Technologies/Techniques
+### Project Technologies/Techniques
 ...
 
-###Design
+### Design
 * User Stories
 * Screen Design
 * Application Flow
 * Database Design
 
-###Project Plan
+### Project Plan
 ...
 
-###Weekly Reflection
+### Weekly Reflection
 ...
